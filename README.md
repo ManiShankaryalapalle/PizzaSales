@@ -1,6 +1,7 @@
 ---
 # PROJECT SUMMARY
-This project includes SQL queries to perform data analysis on a pizza sales dataset and also a dashboard visualization of it from January to December 2015.The goal is to generate actionable insights on business performance through key sales metrics and visual reporting.
+This project includes SQL queries to perform data analysis on a pizza sales dataset and also a dashboard visualization of it from January to December 2015.
+The goal is to generate actionable insights on business performance through key sales metrics and visual reporting.
 
 ## DataSet Overview
 - Time Period: January-December 2015
