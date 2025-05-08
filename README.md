@@ -1,5 +1,5 @@
 ---
-### PROJECT SUMMARY
+# PROJECT SUMMARY
 This project includes SQL queries to perform data analysis on a pizza sales dataset and also a dashboard visualization of it from January to December 2015.The goal is to generate actionable insights on business performance through key sales metrics and visual reporting.
 
 ## DataSet Overview
@@ -8,26 +8,26 @@ Data : Order dates,order times,pizza names, pizza sizes, pizza ids, quantities,p
 Purpose: Understanding of sales trends and performance across time, pizza types and customer behaviour.
 
 ## The analysis focused on answering key performance indicators (KPIs):
-# Total Revenue:
+### Total Revenue:
 Sum of total price of all pizza orders.
-# Average Order Value:
+### Average Order Value:
 Total revenue / number of orders.
-# Total Pizzas Sold:
+### Total Pizzas Sold:
 Sum of all pizza quantities sold.
-# Total Orders:
+### Total Orders:
 Count of distinct order IDs.
-# Average Pizzas per Order:
+### Average Pizzas per Order:
 Total pizzas sold / total orders.
 
 ## SQL-Based Analysis
 The file `data_analysis_proj1.sql` includes raw SQL queries used to generate core performance metrics and data visualizations.
-# Queries Covered:
+### Queries Covered:
 - Total Revenue
 - Average Order Value
 - Total Pizzas Sold
 - Total Orders
 - Average Pizzas per Order
-# Chart-Based Queries:
+### Chart-Based Queries:
 - Daily and Hourly Trends of Orders
 - Sales % by Pizza Category and Size
 - Total Pizzas Sold by Category
