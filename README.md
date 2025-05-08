@@ -3,9 +3,9 @@
 This project includes SQL queries to perform data analysis on a pizza sales dataset and also a dashboard visualization of it from January to December 2015.The goal is to generate actionable insights on business performance through key sales metrics and visual reporting.
 
 ## DataSet Overview
-Time Period: January-December 2015
-Data : Order dates,order times,pizza names, pizza sizes, pizza ids, quantities,prices.
-Purpose: Understanding of sales trends and performance across time, pizza types and customer behaviour.
+- Time Period: January-December 2015
+- Data : Order dates,order times,pizza names, pizza sizes, pizza ids, quantities,prices.
+- Purpose: Understanding of sales trends and performance across time, pizza types and customer behaviour.
 
 ## The analysis focused on answering key performance indicators (KPIs):
 ### Total Revenue:
@@ -53,7 +53,7 @@ The file `data_analysis_proj1.sql` includes raw SQL queries used to generate cor
 - Conditional Formatting
 
 ## FILE CONTENTS
-**Pizza_sales_dashboard.xlsx**  -  Full Excel file with data, Analysis, Dashboard.
-**Data_Analysis_proj1.sql** - SQL queries for data analysis and chart generation
-**README.md**: Project documentation 
+- **Pizza_sales_dashboard.xlsx**  -  Full Excel file with data, Analysis, Dashboard.
+- **Data_Analysis_proj1.sql** - SQL queries for data analysis and chart generation
+- **README.md**: Project documentation 
 
