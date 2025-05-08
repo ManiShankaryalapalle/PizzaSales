@@ -36,21 +36,21 @@ The file `data_analysis_proj1.sql` includes raw SQL queries used to generate cor
  These queries are designed to be run on a relational database such as SQL Server or PostgreSQL with a table named `pizza_sales`.
 
 ## To visually support these insights, the following charts and visualizations were created:
-1.Daily Trend of Total Orders
-2.Hourly Trend of Total Orders
-3.Percentage of Sales by Pizza Category
-4.Percentage of Sales by Pizza Size
-5.Total Pizzas Sold by Pizza Category
-6.Top 5 Best-Selling Pizzas 
-7.Bottom 5 Worst-Selling Pizzas 
+- Daily Trend of Total Orders
+- Hourly Trend of Total Orders
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas Sold by Pizza Category
+- Top 5 Best-Selling Pizzas 
+- Bottom 5 Worst-Selling Pizzas 
 
 ## Features Used: 
-1.PivotTables and PivotCharts
-2.Data Cleaning and Formatting
-3.Named Ranges and Data Validation
-4.Slicers for interactivity
-5.Formulas: SUM, AVERAGE, COUNTIF, VLOOKUP, etc.
-6.Conditional Formatting
+- PivotTables and PivotCharts
+- Data Cleaning and Formatting
+- Named Ranges and Data Validation
+- Slicers for interactivity
+- Formulas: SUM, AVERAGE, COUNTIF, VLOOKUP, etc.
+- Conditional Formatting
 
 ## FILE CONTENTS
 **Pizza_sales_dashboard.xlsx**  -  Full Excel file with data, Analysis, Dashboard.
